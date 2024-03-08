@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.MeToo.testlib.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-18T14:33:33" hostname="THINKBOOK16P-SU" time="0.001">
-  <properties/>
-  <testcase name="addition_isCorrect" classname="com.MeToo.testlib.ExampleUnitTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
