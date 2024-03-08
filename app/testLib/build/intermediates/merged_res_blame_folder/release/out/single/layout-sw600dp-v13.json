@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.MeToo.testlib.testLib-merged_res-28:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "com.MeToo.testlib.testLib-material-1.8.0-3:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "com.MeToo.testlib.testLib-merged_res-28:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "com.MeToo.testlib.testLib-material-1.8.0-3:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

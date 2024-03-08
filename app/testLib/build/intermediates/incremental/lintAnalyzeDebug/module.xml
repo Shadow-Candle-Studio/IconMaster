@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="D:\GitProjects\MeToo\MyApplication\app\testLib"
+    name=":app:testLib"
+    type="LIBRARY"
+    maven="IconMaster.app:testLib:"
+    gradle="7.4.2"
+    buildFolder="build"
+    bootClassPath="D:\AndroidSDK\platforms\android-33\android.jar;D:\AndroidSDK\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="debug"/>
+</lint-module>
